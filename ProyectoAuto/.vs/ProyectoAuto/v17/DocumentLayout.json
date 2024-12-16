@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juanito\\source\\repos\\ProyectoAuto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9755A5-25EF-4DCF-A47F-F5E429AEB7BB}|ProyectoAuto\\ProyectoAuto.csproj|c:\\users\\juanito\\source\\repos\\proyectoauto\\proyectoauto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9755A5-25EF-4DCF-A47F-F5E429AEB7BB}|ProyectoAuto\\ProyectoAuto.csproj|solutionrelative:proyectoauto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9755A5-25EF-4DCF-A47F-F5E429AEB7BB}|ProyectoAuto\\ProyectoAuto.csproj|C:\\Users\\Juanito\\source\\repos\\ProyectoAuto\\proyectoauto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA9755A5-25EF-4DCF-A47F-F5E429AEB7BB}|ProyectoAuto\\ProyectoAuto.csproj|solutionrelative:proyectoauto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\ProyectoAuto\\ProyectoAuto\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoAuto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\ProyectoAuto\\ProyectoAuto\\Form1.cs",
+              "RelativeToolTip": "ProyectoAuto\\Form1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAnwHEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:13:21.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\ProyectoAuto\\ProyectoAuto\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoAuto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\ProyectoAuto\\ProyectoAuto\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoAuto\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:02:25.153Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

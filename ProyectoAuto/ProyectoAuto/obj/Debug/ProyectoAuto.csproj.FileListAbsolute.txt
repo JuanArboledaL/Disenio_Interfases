@@ -1,0 +1,10 @@
+C:\Users\Juanito\source\repos\ProyectoAuto\ProyectoAuto\bin\Debug\ProyectoAuto.exe.config
+C:\Users\Juanito\source\repos\ProyectoAuto\ProyectoAuto\bin\Debug\ProyectoAuto.exe
+C:\Users\Juanito\source\repos\ProyectoAuto\ProyectoAuto\bin\Debug\ProyectoAuto.pdb
+C:\Users\Juanito\source\repos\ProyectoAuto\ProyectoAuto\obj\Debug\ProyectoAuto.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\ProyectoAuto\ProyectoAuto\obj\Debug\ProyectoAuto.Form1.resources
+C:\Users\Juanito\source\repos\ProyectoAuto\ProyectoAuto\obj\Debug\ProyectoAuto.Properties.Resources.resources
+C:\Users\Juanito\source\repos\ProyectoAuto\ProyectoAuto\obj\Debug\ProyectoAuto.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\ProyectoAuto\ProyectoAuto\obj\Debug\ProyectoAuto.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\ProyectoAuto\ProyectoAuto\obj\Debug\ProyectoAuto.exe
+C:\Users\Juanito\source\repos\ProyectoAuto\ProyectoAuto\obj\Debug\ProyectoAuto.pdb

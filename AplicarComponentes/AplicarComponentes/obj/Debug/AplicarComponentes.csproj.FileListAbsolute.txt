@@ -1,0 +1,15 @@
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\bin\Debug\AplicarComponentes.exe.config
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\bin\Debug\AplicarComponentes.exe
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\bin\Debug\AplicarComponentes.pdb
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\bin\Debug\foto.dll
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\bin\Debug\TermometroPrimerElemento.dll
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\bin\Debug\foto.pdb
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\bin\Debug\TermometroPrimerElemento.pdb
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\obj\Debug\AplicarComponentes.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\obj\Debug\AplicarComponentes.Form1.resources
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\obj\Debug\AplicarComponentes.Properties.Resources.resources
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\obj\Debug\AplicarComponentes.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\obj\Debug\AplicarComponentes.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\obj\Debug\AplicarC.122A6F2E.Up2Date
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\obj\Debug\AplicarComponentes.exe
+C:\Users\Juanito\source\repos\AplicarComponentes\AplicarComponentes\obj\Debug\AplicarComponentes.pdb

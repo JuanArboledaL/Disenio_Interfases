@@ -1,0 +1,9 @@
+C:\Users\Juanito\source\repos\TermometroPrimerElemento\TermometroPrimerElemento\obj\Debug\TermometroPrimerElemento.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\TermometroPrimerElemento\TermometroPrimerElemento\obj\Debug\TermometroPrimerElemento.Properties.Resources.resources
+C:\Users\Juanito\source\repos\TermometroPrimerElemento\TermometroPrimerElemento\obj\Debug\TermometroPrimerElemento.Termometro.resources
+C:\Users\Juanito\source\repos\TermometroPrimerElemento\TermometroPrimerElemento\obj\Debug\TermometroPrimerElemento.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\TermometroPrimerElemento\TermometroPrimerElemento\obj\Debug\TermometroPrimerElemento.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\TermometroPrimerElemento\TermometroPrimerElemento\bin\Debug\TermometroPrimerElemento.dll
+C:\Users\Juanito\source\repos\TermometroPrimerElemento\TermometroPrimerElemento\bin\Debug\TermometroPrimerElemento.pdb
+C:\Users\Juanito\source\repos\TermometroPrimerElemento\TermometroPrimerElemento\obj\Debug\TermometroPrimerElemento.dll
+C:\Users\Juanito\source\repos\TermometroPrimerElemento\TermometroPrimerElemento\obj\Debug\TermometroPrimerElemento.pdb

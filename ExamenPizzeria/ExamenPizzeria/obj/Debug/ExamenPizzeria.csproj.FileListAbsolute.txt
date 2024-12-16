@@ -1,0 +1,10 @@
+C:\Users\Juanito\source\repos\ExamenPizzeria\ExamenPizzeria\bin\Debug\ExamenPizzeria.exe.config
+C:\Users\Juanito\source\repos\ExamenPizzeria\ExamenPizzeria\bin\Debug\ExamenPizzeria.exe
+C:\Users\Juanito\source\repos\ExamenPizzeria\ExamenPizzeria\bin\Debug\ExamenPizzeria.pdb
+C:\Users\Juanito\source\repos\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.Form1.resources
+C:\Users\Juanito\source\repos\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.Properties.Resources.resources
+C:\Users\Juanito\source\repos\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.exe
+C:\Users\Juanito\source\repos\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.pdb

@@ -1,0 +1,9 @@
+C:\Users\Juanito\source\repos\foto\foto\bin\Debug\foto.dll
+C:\Users\Juanito\source\repos\foto\foto\bin\Debug\foto.pdb
+C:\Users\Juanito\source\repos\foto\foto\obj\Debug\foto.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\foto\foto\obj\Debug\foto.foto.resources
+C:\Users\Juanito\source\repos\foto\foto\obj\Debug\foto.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\foto\foto\obj\Debug\foto.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\foto\foto\obj\Debug\foto.dll
+C:\Users\Juanito\source\repos\foto\foto\obj\Debug\foto.pdb
+C:\Users\Juanito\source\repos\foto\foto\obj\Debug\foto.Properties.Resources.resources

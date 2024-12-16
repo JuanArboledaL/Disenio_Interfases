@@ -1,0 +1,15 @@
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\bin\Debug\InsertarTermometro.exe.config
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\bin\Debug\InsertarTermometro.exe
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\bin\Debug\InsertarTermometro.pdb
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\bin\Debug\TermometroPrimerElemento.dll
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\bin\Debug\TermometroPrimerElemento.pdb
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\obj\Debug\InsertarTermometro.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\obj\Debug\InsertarTermometro.Form1.resources
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\obj\Debug\InsertarTermometro.Properties.Resources.resources
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\obj\Debug\InsertarTermometro.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\obj\Debug\InsertarTermometro.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\obj\Debug\Insertar.7F2E13A3.Up2Date
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\obj\Debug\InsertarTermometro.exe
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\obj\Debug\InsertarTermometro.pdb
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\bin\Debug\Crono.dll
+C:\Users\Juanito\source\repos\InsertarTermometro\InsertarTermometro\bin\Debug\Crono.pdb

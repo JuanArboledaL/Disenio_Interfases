@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulario</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <form>
+      <label for="titulo">Formulario de alumno</label>
+
+      <div id="nombre">
+        <label for="nombre">Nombre</label>
+        <input type="text" maxlength="20" required />
+      </div>
+
+      <div id="apellidos">
+        <label for="apellidos">Apellidos</label>
+        <input type="text" minlength="10" maxlength="20" required />
+      </div>
+
+      <div id="horasMatriculadas">
+        <label for="horasMatriculadas">Horas matrículadas</label>
+        <input type="number" step="2" max="30" min="10" />
+      </div>
+
+      <div id="codAlumno">
+        <label for="codAlumno">Cod. alumno</label>
+        <input readonly="true" type="text" value="A12345" />
+      </div>
+
+      <div id="username">
+        <label for="username">Username</label>
+        <input
+          placeholder="Solo números y minúsculas"
+          type="text"
+          pattern="[0-9a-z]+"
+        />
+      </div>
+
+      <div id="botones">
+        <button type="submit">Enviar</button>
+        <button type="reset">Reset</button>
+      </div>
+    </form>
+  </body>
+</html>

@@ -1,0 +1,13 @@
+C:\Users\Juanito\source\repos\Crono\Cargar Crono\bin\Debug\Cargar Crono.exe.config
+C:\Users\Juanito\source\repos\Crono\Cargar Crono\bin\Debug\Cargar Crono.exe
+C:\Users\Juanito\source\repos\Crono\Cargar Crono\bin\Debug\Cargar Crono.pdb
+C:\Users\Juanito\source\repos\Crono\Cargar Crono\bin\Debug\Crono.dll
+C:\Users\Juanito\source\repos\Crono\Cargar Crono\bin\Debug\Crono.pdb
+C:\Users\Juanito\source\repos\Crono\Cargar Crono\obj\Debug\Cargar Crono.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\Crono\Cargar Crono\obj\Debug\Cargar_Crono.Form1.resources
+C:\Users\Juanito\source\repos\Crono\Cargar Crono\obj\Debug\Cargar_Crono.Properties.Resources.resources
+C:\Users\Juanito\source\repos\Crono\Cargar Crono\obj\Debug\Cargar Crono.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\Crono\Cargar Crono\obj\Debug\Cargar Crono.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\Crono\Cargar Crono\obj\Debug\Cargar C.19B2644F.Up2Date
+C:\Users\Juanito\source\repos\Crono\Cargar Crono\obj\Debug\Cargar Crono.exe
+C:\Users\Juanito\source\repos\Crono\Cargar Crono\obj\Debug\Cargar Crono.pdb

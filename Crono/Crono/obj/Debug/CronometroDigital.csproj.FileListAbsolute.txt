@@ -1,0 +1,8 @@
+C:\Users\Juanito\source\repos\Crono\Crono\bin\Debug\Crono.dll
+C:\Users\Juanito\source\repos\Crono\Crono\bin\Debug\Crono.pdb
+C:\Users\Juanito\source\repos\Crono\Crono\obj\Debug\CronometroDigital.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\Crono\Crono\obj\Debug\CronometroDigital.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\Crono\Crono\obj\Debug\CronometroDigital.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\Crono\Crono\obj\Debug\Crono.dll
+C:\Users\Juanito\source\repos\Crono\Crono\obj\Debug\Crono.pdb
+C:\Users\Juanito\source\repos\Crono\Crono\obj\Debug\Crono.cronometro.resources

@@ -1,0 +1,8 @@
+C:\Users\Juanito\source\repos\Crono\Crono\bin\Debug\Crono.dll
+C:\Users\Juanito\source\repos\Crono\Crono\bin\Debug\Crono.pdb
+C:\Users\Juanito\source\repos\Crono\Crono\obj\Debug\Crono.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\Crono\Crono\obj\Debug\Crono.UserControl1.resources
+C:\Users\Juanito\source\repos\Crono\Crono\obj\Debug\Crono.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\Crono\Crono\obj\Debug\Crono.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\Crono\Crono\obj\Debug\Crono.dll
+C:\Users\Juanito\source\repos\Crono\Crono\obj\Debug\Crono.pdb

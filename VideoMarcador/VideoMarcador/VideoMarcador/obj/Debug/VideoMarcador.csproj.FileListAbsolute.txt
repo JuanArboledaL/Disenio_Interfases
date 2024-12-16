@@ -1,0 +1,12 @@
+C:\Users\Juanito\source\repos\VideoMarcador\VideoMarcador\bin\Debug\VideoMarcador.dll
+C:\Users\Juanito\source\repos\VideoMarcador\VideoMarcador\bin\Debug\VideoMarcador.pdb
+C:\Users\Juanito\source\repos\VideoMarcador\VideoMarcador\obj\Debug\VideoMarcador.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\VideoMarcador\VideoMarcador\obj\Debug\VideoMarcador.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\VideoMarcador\VideoMarcador\obj\Debug\VideoMarcador.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\VideoMarcador\VideoMarcador\obj\Debug\VideoMarcador.dll
+C:\Users\Juanito\source\repos\VideoMarcador\VideoMarcador\obj\Debug\VideoMarcador.pdb
+C:\Users\Juanito\source\repos\VideoMarcador\VideoMarcador\obj\Debug\VideoMarcador.videoMarcador.resources
+C:\Users\Juanito\source\repos\VideoMarcador\VideoMarcador\obj\Debug\VideoMarcador.Properties.Resources.resources
+C:\Users\Juanito\source\repos\VideoMarcador\VideoMarcador\bin\Debug\Crono.dll
+C:\Users\Juanito\source\repos\VideoMarcador\VideoMarcador\bin\Debug\Crono.pdb
+C:\Users\Juanito\source\repos\VideoMarcador\VideoMarcador\obj\Debug\VideoMar.ADFA5766.Up2Date

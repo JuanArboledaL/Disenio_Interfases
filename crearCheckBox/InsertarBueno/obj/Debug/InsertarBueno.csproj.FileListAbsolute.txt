@@ -1,0 +1,15 @@
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\bin\Debug\InsertarBueno.exe.config
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\bin\Debug\InsertarBueno.exe
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\bin\Debug\InsertarBueno.pdb
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\bin\Debug\crearCheckBox.dll
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\bin\Debug\crearCheckBox.pdb
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\obj\Debug\InsertarBueno.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\obj\Debug\InsertarBueno.Form1.resources
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\obj\Debug\InsertarBueno.Properties.Resources.resources
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\obj\Debug\InsertarBueno.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\obj\Debug\InsertarBueno.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\obj\Debug\Insertar.CAA7E332.Up2Date
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\obj\Debug\InsertarBueno.exe
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\obj\Debug\InsertarBueno.pdb
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\bin\Debug\foto.dll
+C:\Users\Juanito\source\repos\crearCheckBox\InsertarBueno\bin\Debug\foto.pdb

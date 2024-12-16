@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juanito\\source\\repos\\crearCheckBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1994E9-12EE-4BEE-A340-8D46703BDCD4}|..\\foto\\foto\\foto.csproj|c:\\users\\juanito\\source\\repos\\foto\\foto\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38DAED-74FB-4FC5-956E-3BA666DE94B2}|InsertarBueno\\InsertarBueno.csproj|C:\\Users\\Juanito\\source\\repos\\crearCheckBox\\insertarbueno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD38DAED-74FB-4FC5-956E-3BA666DE94B2}|InsertarBueno\\InsertarBueno.csproj|solutionrelative:insertarbueno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1994E9-12EE-4BEE-A340-8D46703BDCD4}|..\\foto\\foto\\foto.csproj|c:\\users\\juanito\\source\\repos\\foto\\foto\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\foto\\foto\\UserControl1.cs",
+              "RelativeDocumentMoniker": "..\\foto\\foto\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\foto\\foto\\UserControl1.cs*",
+              "RelativeToolTip": "..\\foto\\foto\\UserControl1.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:21:46.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\foto\\foto\\UserControl1.cs",
+              "RelativeDocumentMoniker": "..\\foto\\foto\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\foto\\foto\\UserControl1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "..\\foto\\foto\\UserControl1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:21:44.001Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\crearCheckBox\\InsertarBueno\\Form1.cs",
+              "RelativeDocumentMoniker": "InsertarBueno\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\crearCheckBox\\InsertarBueno\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InsertarBueno\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:25:02.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

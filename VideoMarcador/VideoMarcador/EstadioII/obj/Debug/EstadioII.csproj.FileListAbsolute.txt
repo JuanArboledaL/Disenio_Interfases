@@ -1,0 +1,13 @@
+C:\Users\Juanito\source\repos\VideoMarcador\EstadioII\obj\Debug\EstadioII.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\VideoMarcador\EstadioII\obj\Debug\EstadioII.Form1.resources
+C:\Users\Juanito\source\repos\VideoMarcador\EstadioII\obj\Debug\EstadioII.Properties.Resources.resources
+C:\Users\Juanito\source\repos\VideoMarcador\EstadioII\obj\Debug\EstadioII.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\VideoMarcador\EstadioII\obj\Debug\EstadioII.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\VideoMarcador\EstadioII\bin\Debug\EstadioII.exe.config
+C:\Users\Juanito\source\repos\VideoMarcador\EstadioII\bin\Debug\EstadioII.exe
+C:\Users\Juanito\source\repos\VideoMarcador\EstadioII\bin\Debug\EstadioII.pdb
+C:\Users\Juanito\source\repos\VideoMarcador\EstadioII\bin\Debug\VideoMarcador.dll
+C:\Users\Juanito\source\repos\VideoMarcador\EstadioII\bin\Debug\VideoMarcador.pdb
+C:\Users\Juanito\source\repos\VideoMarcador\EstadioII\obj\Debug\EstadioII.csproj.Up2Date
+C:\Users\Juanito\source\repos\VideoMarcador\EstadioII\obj\Debug\EstadioII.exe
+C:\Users\Juanito\source\repos\VideoMarcador\EstadioII\obj\Debug\EstadioII.pdb

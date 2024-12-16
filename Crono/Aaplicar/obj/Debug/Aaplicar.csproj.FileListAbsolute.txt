@@ -1,0 +1,13 @@
+C:\Users\Juanito\source\repos\Crono\Aaplicar\bin\Debug\Aaplicar.exe.config
+C:\Users\Juanito\source\repos\Crono\Aaplicar\bin\Debug\Aaplicar.exe
+C:\Users\Juanito\source\repos\Crono\Aaplicar\bin\Debug\Aaplicar.pdb
+C:\Users\Juanito\source\repos\Crono\Aaplicar\bin\Debug\Crono.dll
+C:\Users\Juanito\source\repos\Crono\Aaplicar\bin\Debug\Crono.pdb
+C:\Users\Juanito\source\repos\Crono\Aaplicar\obj\Debug\Aaplicar.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\Crono\Aaplicar\obj\Debug\Aaplicar.Form1.resources
+C:\Users\Juanito\source\repos\Crono\Aaplicar\obj\Debug\Aaplicar.Properties.Resources.resources
+C:\Users\Juanito\source\repos\Crono\Aaplicar\obj\Debug\Aaplicar.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\Crono\Aaplicar\obj\Debug\Aaplicar.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\Crono\Aaplicar\obj\Debug\Aaplicar.csproj.Up2Date
+C:\Users\Juanito\source\repos\Crono\Aaplicar\obj\Debug\Aaplicar.exe
+C:\Users\Juanito\source\repos\Crono\Aaplicar\obj\Debug\Aaplicar.pdb

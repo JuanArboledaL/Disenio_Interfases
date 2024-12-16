@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juanito\\source\\repos\\formAutoGrid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A40E70B7-9347-45EC-ABD6-6ACC1C62FDEF}|formAutoGrid\\formAutoGrid.csproj|c:\\users\\juanito\\source\\repos\\formautogrid\\formautogrid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40E70B7-9347-45EC-ABD6-6ACC1C62FDEF}|formAutoGrid\\formAutoGrid.csproj|solutionrelative:formautogrid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40E70B7-9347-45EC-ABD6-6ACC1C62FDEF}|formAutoGrid\\formAutoGrid.csproj|C:\\Users\\Juanito\\source\\repos\\formAutoGrid\\formautogrid\\extras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40E70B7-9347-45EC-ABD6-6ACC1C62FDEF}|formAutoGrid\\formAutoGrid.csproj|solutionrelative:formautogrid\\extras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40E70B7-9347-45EC-ABD6-6ACC1C62FDEF}|formAutoGrid\\formAutoGrid.csproj|C:\\Users\\Juanito\\source\\repos\\formAutoGrid\\formautogrid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A40E70B7-9347-45EC-ABD6-6ACC1C62FDEF}|formAutoGrid\\formAutoGrid.csproj|solutionrelative:formautogrid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\formAutoGrid\\formAutoGrid\\Form1.cs",
+              "RelativeDocumentMoniker": "formAutoGrid\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\formAutoGrid\\formAutoGrid\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "formAutoGrid\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:27:40.755Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\formAutoGrid\\formAutoGrid\\Form1.cs",
+              "RelativeDocumentMoniker": "formAutoGrid\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\formAutoGrid\\formAutoGrid\\Form1.cs",
+              "RelativeToolTip": "formAutoGrid\\Form1.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAawJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:47:13.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extras.cs",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\formAutoGrid\\formAutoGrid\\Extras.cs",
+              "RelativeDocumentMoniker": "formAutoGrid\\Extras.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\formAutoGrid\\formAutoGrid\\Extras.cs",
+              "RelativeToolTip": "formAutoGrid\\Extras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:05:15.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

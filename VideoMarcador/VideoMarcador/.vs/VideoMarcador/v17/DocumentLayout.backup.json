@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2C4288-3C48-4737-AF57-F9CB89DE94AD}|EstadioII\\EstadioII.csproj|c:\\users\\juanito\\source\\repos\\videomarcador\\estadioii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC2C4288-3C48-4737-AF57-F9CB89DE94AD}|EstadioII\\EstadioII.csproj|solutionrelative:estadioii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281BE26-ED45-40B4-BC4B-701F15E2FF3C}|VideoMarcador\\VideoMarcador.csproj|C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\videomarcador\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281BE26-ED45-40B4-BC4B-701F15E2FF3C}|VideoMarcador\\VideoMarcador.csproj|solutionrelative:videomarcador\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281BE26-ED45-40B4-BC4B-701F15E2FF3C}|VideoMarcador\\VideoMarcador.csproj|C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\videomarcador\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5281BE26-ED45-40B4-BC4B-701F15E2FF3C}|VideoMarcador\\VideoMarcador.csproj|solutionrelative:videomarcador\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2C4288-3C48-4737-AF57-F9CB89DE94AD}|EstadioII\\EstadioII.csproj|C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\estadioii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2C4288-3C48-4737-AF57-F9CB89DE94AD}|EstadioII\\EstadioII.csproj|solutionrelative:estadioii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281BE26-ED45-40B4-BC4B-701F15E2FF3C}|VideoMarcador\\VideoMarcador.csproj|c:\\users\\juanito\\source\\repos\\videomarcador\\videomarcador\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5281BE26-ED45-40B4-BC4B-701F15E2FF3C}|VideoMarcador\\VideoMarcador.csproj|solutionrelative:videomarcador\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\VideoMarcador\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "VideoMarcador\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\VideoMarcador\\Properties\\Resources.resx",
+              "RelativeToolTip": "VideoMarcador\\Properties\\Resources.resx",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHcAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-20T13:32:01.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\EstadioII\\Form1.cs",
+              "RelativeDocumentMoniker": "EstadioII\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\EstadioII\\Form1.cs",
+              "RelativeToolTip": "EstadioII\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA4wB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:20:40.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\EstadioII\\Form1.cs",
+              "RelativeDocumentMoniker": "EstadioII\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\EstadioII\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EstadioII\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:53:17.099Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\VideoMarcador\\UserControl1.cs",
+              "RelativeDocumentMoniker": "VideoMarcador\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\VideoMarcador\\UserControl1.cs",
+              "RelativeToolTip": "VideoMarcador\\UserControl1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:08:26.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\VideoMarcador\\UserControl1.cs",
+              "RelativeDocumentMoniker": "VideoMarcador\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\VideoMarcador\\VideoMarcador\\UserControl1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VideoMarcador\\UserControl1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:54:56.195Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

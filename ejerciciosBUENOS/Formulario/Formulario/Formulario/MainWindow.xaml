@@ -1,0 +1,21 @@
+﻿<Window x:Class="Formulario.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Formulario"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="304" Width="704" Background="Gray">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Margin="98,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Name="NombreTextBox"/>
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="24,59,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="98,105,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Name="ApellidosTextBox"/>
+        <Label Content="Apellidos:" HorizontalAlignment="Left" Margin="24,101,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="98,147,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Name="DireccionTextBox"/>
+        <Label Content="Dirección:" HorizontalAlignment="Left" Margin="24,143,0,0" VerticalAlignment="Top"/>
+        <Button Content="Añadir" HorizontalAlignment="Left" Margin="30,249,0,0" VerticalAlignment="Top" Width="50" Height="26" Background="#FFB777B7" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Left" Margin="136,187,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="82" Name="FechaNacimientoTextBox"/>
+        <Label Content="Fecha Nacimiento:" HorizontalAlignment="Left" Margin="24,183,0,0" VerticalAlignment="Top"/>
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=10}" Margin="264,59,10,13" Name="Tabla" Grid.ColumnSpan="4" Grid.RowSpan="1" Grid.Column="4"/>
+    </Grid>
+</Window>

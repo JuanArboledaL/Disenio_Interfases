@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juanito\\source\\repos\\FormularioPersona\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA339BC9-4791-4711-A8CE-66E12906A30B}|FormularioPersona\\FormularioPersona.csproj|C:\\Users\\Juanito\\source\\repos\\FormularioPersona\\formulariopersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA339BC9-4791-4711-A8CE-66E12906A30B}|FormularioPersona\\FormularioPersona.csproj|solutionrelative:formulariopersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA339BC9-4791-4711-A8CE-66E12906A30B}|FormularioPersona\\FormularioPersona.csproj|c:\\users\\juanito\\source\\repos\\formulariopersona\\formulariopersona\\datospersonales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA339BC9-4791-4711-A8CE-66E12906A30B}|FormularioPersona\\FormularioPersona.csproj|solutionrelative:formulariopersona\\datospersonales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA339BC9-4791-4711-A8CE-66E12906A30B}|FormularioPersona\\FormularioPersona.csproj|C:\\Users\\Juanito\\source\\repos\\FormularioPersona\\formulariopersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA339BC9-4791-4711-A8CE-66E12906A30B}|FormularioPersona\\FormularioPersona.csproj|solutionrelative:formulariopersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\FormularioPersona\\FormularioPersona\\Form1.cs",
+              "RelativeDocumentMoniker": "FormularioPersona\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\FormularioPersona\\FormularioPersona\\Form1.cs",
+              "RelativeToolTip": "FormularioPersona\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwD4AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:17:04.675Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "datosPersonales.cs",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\FormularioPersona\\FormularioPersona\\datosPersonales.cs",
+              "RelativeDocumentMoniker": "FormularioPersona\\datosPersonales.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\FormularioPersona\\FormularioPersona\\datosPersonales.cs",
+              "RelativeToolTip": "FormularioPersona\\datosPersonales.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:22:12.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juanito\\source\\repos\\FormularioPersona\\FormularioPersona\\Form1.cs",
+              "RelativeDocumentMoniker": "FormularioPersona\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\source\\repos\\FormularioPersona\\FormularioPersona\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormularioPersona\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:03:39.029Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

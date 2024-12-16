@@ -1,0 +1,3 @@
+C:\Users\Juanito\source\repos\VideoMarcador\AplicarVideoMarcador\obj\Debug\AplicarVideoMarcador.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\VideoMarcador\AplicarVideoMarcador\obj\Debug\AplicarVideoMarcador.Form1.resources
+C:\Users\Juanito\source\repos\VideoMarcador\AplicarVideoMarcador\obj\Debug\AplicarVideoMarcador.csproj.GenerateResource.cache

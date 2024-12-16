@@ -1,0 +1,13 @@
+C:\Users\Juanito\source\repos\InsertarElement\InsertarElement\bin\Debug\InsertarElement.exe.config
+C:\Users\Juanito\source\repos\InsertarElement\InsertarElement\bin\Debug\InsertarElement.exe
+C:\Users\Juanito\source\repos\InsertarElement\InsertarElement\bin\Debug\InsertarElement.pdb
+C:\Users\Juanito\source\repos\InsertarElement\InsertarElement\obj\Debug\InsertarElement.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\InsertarElement\InsertarElement\obj\Debug\InsertarElement.Properties.Resources.resources
+C:\Users\Juanito\source\repos\InsertarElement\InsertarElement\obj\Debug\InsertarElement.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\InsertarElement\InsertarElement\obj\Debug\InsertarElement.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\InsertarElement\InsertarElement\obj\Debug\InsertarElement.exe
+C:\Users\Juanito\source\repos\InsertarElement\InsertarElement\obj\Debug\InsertarElement.pdb
+C:\Users\Juanito\source\repos\InsertarElement\InsertarElement\bin\Debug\crearCheckBox.dll
+C:\Users\Juanito\source\repos\InsertarElement\InsertarElement\bin\Debug\crearCheckBox.pdb
+C:\Users\Juanito\source\repos\InsertarElement\InsertarElement\obj\Debug\InsertarElement.Form1.resources
+C:\Users\Juanito\source\repos\InsertarElement\InsertarElement\obj\Debug\Insertar.89ED71ED.Up2Date

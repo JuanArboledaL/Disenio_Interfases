@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+form {
+  display: flex;
+  margin: 5em 40em;
+  padding: 6em 0;
+  border: solid 3px rgb(150, 219, 250);
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+  gap: 3em;
+}
+
+button {
+  background-color: white;
+  color: white;
+  background-color: blue;
+  border: solid 0.5px gray;
+  border-radius: 10px;
+  width: 120px;
+  height: 40px;
+  font-size: 18px;
+}
+
+label {
+  font-weight: bold;
+}
+
+label[for="titulo"] {
+  font-size: 24px;
+}
+
+input {
+  padding: 0.5em;
+  font-size: 14px;
+}

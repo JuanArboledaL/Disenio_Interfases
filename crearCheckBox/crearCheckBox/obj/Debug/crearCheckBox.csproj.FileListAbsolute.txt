@@ -1,0 +1,8 @@
+C:\Users\Juanito\source\repos\crearCheckBox\crearCheckBox\obj\Debug\crearCheckBox.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\crearCheckBox\crearCheckBox\obj\Debug\crearCheckBox.UserControl1.resources
+C:\Users\Juanito\source\repos\crearCheckBox\crearCheckBox\obj\Debug\crearCheckBox.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\crearCheckBox\crearCheckBox\obj\Debug\crearCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\crearCheckBox\crearCheckBox\bin\Debug\crearCheckBox.dll
+C:\Users\Juanito\source\repos\crearCheckBox\crearCheckBox\bin\Debug\crearCheckBox.pdb
+C:\Users\Juanito\source\repos\crearCheckBox\crearCheckBox\obj\Debug\crearCheckBox.dll
+C:\Users\Juanito\source\repos\crearCheckBox\crearCheckBox\obj\Debug\crearCheckBox.pdb

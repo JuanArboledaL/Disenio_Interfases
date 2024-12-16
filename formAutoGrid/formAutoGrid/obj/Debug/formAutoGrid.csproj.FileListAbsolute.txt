@@ -1,0 +1,10 @@
+C:\Users\Juanito\source\repos\formAutoGrid\formAutoGrid\bin\Debug\formAutoGrid.exe.config
+C:\Users\Juanito\source\repos\formAutoGrid\formAutoGrid\bin\Debug\formAutoGrid.exe
+C:\Users\Juanito\source\repos\formAutoGrid\formAutoGrid\bin\Debug\formAutoGrid.pdb
+C:\Users\Juanito\source\repos\formAutoGrid\formAutoGrid\obj\Debug\formAutoGrid.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\formAutoGrid\formAutoGrid\obj\Debug\formAutoGrid.Form1.resources
+C:\Users\Juanito\source\repos\formAutoGrid\formAutoGrid\obj\Debug\formAutoGrid.Properties.Resources.resources
+C:\Users\Juanito\source\repos\formAutoGrid\formAutoGrid\obj\Debug\formAutoGrid.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\formAutoGrid\formAutoGrid\obj\Debug\formAutoGrid.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\formAutoGrid\formAutoGrid\obj\Debug\formAutoGrid.exe
+C:\Users\Juanito\source\repos\formAutoGrid\formAutoGrid\obj\Debug\formAutoGrid.pdb
