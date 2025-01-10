@@ -1,0 +1,15 @@
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\bin\Debug\primeroWPF.exe.config
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\bin\Debug\primeroWPF.exe
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\bin\Debug\primeroWPF.pdb
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\obj\Debug\primeroWPF.csproj.AssemblyReference.cache
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\obj\Debug\App.g.cs
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\obj\Debug\primeroWPF_MarkupCompile.cache
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\obj\Debug\primeroWPF_MarkupCompile.lref
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\obj\Debug\MainWindow.baml
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\obj\Debug\primeroWPF.g.resources
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\obj\Debug\primeroWPF.Properties.Resources.resources
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\obj\Debug\primeroWPF.csproj.GenerateResource.cache
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\obj\Debug\primeroWPF.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\obj\Debug\primeroWPF.exe
+C:\Users\Juanito\source\repos\primeroWPF\primeroWPF\obj\Debug\primeroWPF.pdb

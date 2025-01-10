@@ -1,0 +1,36 @@
+﻿<Window x:Class="RevolucionesCocheWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RevolucionesCocheWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Black">
+        <Button Name="freno" HorizontalAlignment="Left" Height="32" Margin="262,271,0,0" VerticalAlignment="Top" Width="47" RenderTransformOrigin="0.128,1.138" Click="freno_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/freno.jpg"/>
+            </Button.Background>
+            <RepeatButton Delay="500" Click="">
+            </RepeatButton>
+        </Button>
+        <Button Name="acelerador" HorizontalAlignment="Left" Height="68" Margin="372,271,0,0" VerticalAlignment="Top" Width="28" Click="acelerador_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/acelerador.jpg"/>
+            </Button.Background>
+        </Button>
+        <Image HorizontalAlignment="Left" Height="128" Margin="250,115,0,0" VerticalAlignment="Top" Width="202" Source="/odoologo.png"/>
+        <Image HorizontalAlignment="Left" Height="144" Margin="250,56,0,0" VerticalAlignment="Top" Width="143" Source="/tacometro.png"/>
+        <Rectangle Name="aguja" HorizontalAlignment="Left" Height="53" Margin="317,128,0,0" Stroke="#FFFF0606" VerticalAlignment="Top" Width="2" Fill="#FFFF0101" RenderTransformOrigin="0.458,0.01">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="20"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+
+    </Grid>
+</Window>
