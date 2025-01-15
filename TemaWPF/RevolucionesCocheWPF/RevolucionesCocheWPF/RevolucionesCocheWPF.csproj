@@ -103,5 +103,11 @@
   <ItemGroup>
     <Resource Include="tacometro.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="apagado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="encendido.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
