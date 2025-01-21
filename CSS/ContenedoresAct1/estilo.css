@@ -1,0 +1,45 @@
+* .contenedores{
+
+    border-color: gray;
+    border-width: 2px;
+    border-style: solid;
+}
+
+#titulo{
+
+    margin-left: 10px;
+}
+
+#busqueda{
+
+    float:right;
+}
+
+* #texto{
+
+    border: 0;
+    float: right;
+    margin-right: 1pc;
+
+}
+
+#nav{
+
+    border-color: gray;
+    border-width: 2px;
+    border-style: solid;
+
+}
+#noticas{
+
+    
+}
+
+#columna_izquierda {
+
+    float: left;
+    border-color: gray;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 15px;
+}

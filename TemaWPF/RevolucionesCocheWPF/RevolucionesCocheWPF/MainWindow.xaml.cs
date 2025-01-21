@@ -80,6 +80,7 @@ namespace RevolucionesCocheWPF
             barraRevoluciones.Height = 142;
             rotarAguja.Angle = 24;
             interruptor = true;
+            modNormal.IsChecked = true;
             encendido.Visibility = Visibility.Visible;
             apagado.Visibility = Visibility.Hidden;
             sport.Visibility = Visibility.Visible;
