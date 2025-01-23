@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RecuperacionInterfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63391332-4FFF-417C-AAC1-82E8923C1F78}|RecuperacionInterfaces\\RecuperacionInterfaces.csproj|c:\\users\\juanito\\documents\\github\\disenio_interfases\\recuperacioninterfaces\\recuperacioninterfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63391332-4FFF-417C-AAC1-82E8923C1F78}|RecuperacionInterfaces\\RecuperacionInterfaces.csproj|solutionrelative:recuperacioninterfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63391332-4FFF-417C-AAC1-82E8923C1F78}|RecuperacionInterfaces\\RecuperacionInterfaces.csproj|C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RecuperacionInterfaces\\recuperacioninterfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63391332-4FFF-417C-AAC1-82E8923C1F78}|RecuperacionInterfaces\\RecuperacionInterfaces.csproj|solutionrelative:recuperacioninterfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63391332-4FFF-417C-AAC1-82E8923C1F78}|RecuperacionInterfaces\\RecuperacionInterfaces.csproj|C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RecuperacionInterfaces\\recuperacioninterfaces\\controlcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63391332-4FFF-417C-AAC1-82E8923C1F78}|RecuperacionInterfaces\\RecuperacionInterfaces.csproj|solutionrelative:recuperacioninterfaces\\controlcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63391332-4FFF-417C-AAC1-82E8923C1F78}|RecuperacionInterfaces\\RecuperacionInterfaces.csproj|C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RecuperacionInterfaces\\recuperacioninterfaces\\controlcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63391332-4FFF-417C-AAC1-82E8923C1F78}|RecuperacionInterfaces\\RecuperacionInterfaces.csproj|solutionrelative:recuperacioninterfaces\\controlcaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RecuperacionInterfaces\\RecuperacionInterfaces\\Form1.cs",
+              "RelativeDocumentMoniker": "RecuperacionInterfaces\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RecuperacionInterfaces\\RecuperacionInterfaces\\Form1.cs",
+              "RelativeToolTip": "RecuperacionInterfaces\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:47:01.152Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "controlCaja.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RecuperacionInterfaces\\RecuperacionInterfaces\\controlCaja.cs",
+              "RelativeDocumentMoniker": "RecuperacionInterfaces\\controlCaja.cs",
+              "ToolTip": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RecuperacionInterfaces\\RecuperacionInterfaces\\controlCaja.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RecuperacionInterfaces\\controlCaja.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:58:23.632Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "controlCaja.cs",
+              "DocumentMoniker": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RecuperacionInterfaces\\RecuperacionInterfaces\\controlCaja.cs",
+              "RelativeDocumentMoniker": "RecuperacionInterfaces\\controlCaja.cs",
+              "ToolTip": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RecuperacionInterfaces\\RecuperacionInterfaces\\controlCaja.cs",
+              "RelativeToolTip": "RecuperacionInterfaces\\controlCaja.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:01:16.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RecuperacionInterfaces\\RecuperacionInterfaces\\Form1.cs",
+              "RelativeDocumentMoniker": "RecuperacionInterfaces\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RecuperacionInterfaces\\RecuperacionInterfaces\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RecuperacionInterfaces\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:50:05.466Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

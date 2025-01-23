@@ -92,11 +92,11 @@
             // 
             // marcador1
             // 
-            this.marcador1.escudoLocal = global::UsoMarcador.Properties.Resources.madridPNG;
-            this.marcador1.escudoVisitante = global::UsoMarcador.Properties.Resources.bilbaoPNG;
+            this.marcador1.escudoLocal = global::UsoMarcador.Properties.Resources.santiago_bernabeu;
+            this.marcador1.escudoVisitante = global::UsoMarcador.Properties.Resources.imagen;
             this.marcador1.Location = new System.Drawing.Point(147, 113);
-            this.marcador1.marcadorLocal = "0";
-            this.marcador1.marcadorVisitante = "0";
+            this.marcador1.marcadorLocal = "01";
+            this.marcador1.marcadorVisitante = "2";
             this.marcador1.Name = "marcador1";
             this.marcador1.nombreLocal = "LOCAL";
             this.marcador1.nombreVisitante = "VISITANTE";

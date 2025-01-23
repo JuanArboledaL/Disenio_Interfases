@@ -1,4 +1,4 @@
-* .contenedores{
+.contenedores{
 
     border-color: gray;
     border-width: 2px;
@@ -30,16 +30,18 @@
     border-style: solid;
 
 }
-#noticas{
 
-    
+#seccion{
+
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
 }
 
-#columna_izquierda {
+#seccionIzquierda{
 
     float: left;
     border-color: gray;
     border-width: 2px;
     border-style: solid;
-    margin-top: 15px;
 }

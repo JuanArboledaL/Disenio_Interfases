@@ -95,7 +95,5 @@ namespace ControlExamen
             set { tiempoLbl.Text = value; }
             get { return tiempoLbl.Text; }
         }
-
-
     }
 }

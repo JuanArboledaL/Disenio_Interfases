@@ -1,0 +1,11 @@
+C:\Users\Juanito\Documents\GitHub\Disenio_Interfases\RecuperacionInterfaces\RecuperacionInterfaces\bin\Debug\RecuperacionInterfaces.exe.config
+C:\Users\Juanito\Documents\GitHub\Disenio_Interfases\RecuperacionInterfaces\RecuperacionInterfaces\bin\Debug\RecuperacionInterfaces.exe
+C:\Users\Juanito\Documents\GitHub\Disenio_Interfases\RecuperacionInterfaces\RecuperacionInterfaces\bin\Debug\RecuperacionInterfaces.pdb
+C:\Users\Juanito\Documents\GitHub\Disenio_Interfases\RecuperacionInterfaces\RecuperacionInterfaces\obj\Debug\RecuperacionInterfaces.csproj.AssemblyReference.cache
+C:\Users\Juanito\Documents\GitHub\Disenio_Interfases\RecuperacionInterfaces\RecuperacionInterfaces\obj\Debug\RecuperacionInterfaces.Form1.resources
+C:\Users\Juanito\Documents\GitHub\Disenio_Interfases\RecuperacionInterfaces\RecuperacionInterfaces\obj\Debug\RecuperacionInterfaces.Properties.Resources.resources
+C:\Users\Juanito\Documents\GitHub\Disenio_Interfases\RecuperacionInterfaces\RecuperacionInterfaces\obj\Debug\RecuperacionInterfaces.csproj.GenerateResource.cache
+C:\Users\Juanito\Documents\GitHub\Disenio_Interfases\RecuperacionInterfaces\RecuperacionInterfaces\obj\Debug\RecuperacionInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Juanito\Documents\GitHub\Disenio_Interfases\RecuperacionInterfaces\RecuperacionInterfaces\obj\Debug\RecuperacionInterfaces.exe
+C:\Users\Juanito\Documents\GitHub\Disenio_Interfases\RecuperacionInterfaces\RecuperacionInterfaces\obj\Debug\RecuperacionInterfaces.pdb
+C:\Users\Juanito\Documents\GitHub\Disenio_Interfases\RecuperacionInterfaces\RecuperacionInterfaces\obj\Debug\RecuperacionInterfaces.controlCaja.resources
