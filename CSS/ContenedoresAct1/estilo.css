@@ -1,11 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    font-size: 1em;
-    font-family:arial;
-}
-
 #cabecera{
 
     position: relative;
@@ -14,6 +6,13 @@
     border-color: #636363;
     width: 800px;
     height: 80px;
+}
+
+#logoTipo{
+
+    margin: 15px;
+    font-style: italic;
+    font-size: 40px;
 }
 
 #nav{
@@ -25,6 +24,14 @@
     border: solid;
     border-color: #636363;
 }
+
+#linkNav{
+
+    position: relative;
+    top: 5px;
+    left: 10px;
+}
+
 #contenedor {
     margin: 0 auto;
     width: 800px;
