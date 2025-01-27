@@ -8,6 +8,13 @@
     height: 80px;
 }
 
+#busqueda{
+
+    position: relative;
+    float: right;
+    top: -45px;
+    right: 8px;
+}
 #logoTipo{
 
     margin: 15px;
@@ -45,7 +52,7 @@
     padding: 8px;
     border: 2px solid;  
     border-color: #636363;
-    height: 475px;
+    height: 575px;
 }
 
 #principal {
@@ -55,7 +62,7 @@
     width: 640px;
     border-style: solid;
     border-color: #636363;
-    height:430px;
+    height:530px;
 }
 
 #contenido {
@@ -63,10 +70,28 @@
     top: 0px;
     left: 0px;
     width: 460px;
-    height: 407px;
+    height: 480px;
     border: solid;
     border-color: #636363;
     padding: 10px;
+}
+
+h3{
+    font-style: bold;
+    font-size: 20px;
+}
+
+#imagen {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.texto{
+    
+    font-size: 17px;
+    font-style: italic;
+    text-align: justify;
 }
 
 #lateral {
@@ -74,7 +99,7 @@
     top: 0px;
     right: 0px;
     width: 130px;
-    height: 300px;
+    height: 420px;
     padding: 5px;
     border:solid;
     border-color:  #636363;
@@ -82,16 +107,31 @@
 
 #pie {
     position: absolute;
-    top: 640px;
-    left: 0px;
+    top: 740px;
     width: 800px;
-    height: 100px;
+    height: 40px;
     border: solid;
     border-color: #636363;
+}
+
+#busquedas{
+
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+#copy{
+
+    float: right;
+    position: relative;
+    top: -5px;
+    right: 10px;
 }
 
 #contenedor {
     width: 800px;
     position: relative;
     height: 700px;
+    margin: auto;
 }

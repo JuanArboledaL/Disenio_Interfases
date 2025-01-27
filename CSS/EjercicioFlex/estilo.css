@@ -1,0 +1,24 @@
+#contGeneral{
+
+    margin: auto;
+    width: 1200px;
+}
+
+#botones{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+
+}
+.item{
+
+    background-color: aqua;
+    row-gap: 10px;
+
+}
+
+#inicio{
+
+    background-color: ECEEF3;
+}
