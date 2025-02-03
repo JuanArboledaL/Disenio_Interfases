@@ -1,43 +1,156 @@
 #general{
 
-    width: 100%;
     display: flex;
     flex-direction: column;
+
+}
+
+.contenedor{
+
+    margin: auto;
+    max-width: 1500px;
+}
+
+#s1{
+
+    background-image: url('imagenes/background-1.jpg');
 }
 
 #primero{
 
-    background-image: url('imagenes/background-1.jpg');
+    display: flex;
+    flex-direction: column;
     color: white;
+    margin-top: -80px;
+    margin-bottom: 100px;
+}
+
+#header{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 15px;
+    margin: auto;
+    color: white;
+    margin-top: 20PX;
+}
+
+#header a{
+    
+    color: white;
+}
+
+#menu{
+
+    list-style-type: none;
+    display: flex;
+    gap: 1em; 
+    margin-top: 10px;
+    
+}
+
+#h1{
+
+    font-size: 50px;
+    margin-right:50%;
+    font-family: Arial, sans-serif;
+    margin-top: 10%
+}
+
+#t1{
+
+    font-size: 25px;
+    margin-right: 35%;
 }
 
 #imagenes{
 
     display: flex;
     flex-direction: row;
-    gap: 10px;
+    gap: 150px;
     justify-content: center;
     margin-bottom: 50px;
 }
 
 #primero img{
 
-    width: 190px;
-    height: 130px;
+    padding-top:80px ;
+    width: 400px;
+    height: 250px;
+
+}
+
+#s2{
+
+    background-image: url('imagenes/background-2.jpg');
+    
 }
 
 #segundo{
 
-    background-image: url('imagenes/background-2.jpg');
     color: white;
+    font-size: 35px;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+#s3{
+
+    background-image: url('imagenes/background-3.jpg');
 }
 #tercero{
 
-    background-image: url('imagenes/background-3.jpg');
     color: white;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#perseverance{
+
+    display: flex;
+    flex-direction: row;
+    gap: 15em;
+    margin-top: 200px;
+    margin-bottom: 50px;
+    font-size: 20px;
+
+}
+
+
+#tercero img{
+
+    width: 500px;
+    height: 300px;
+}
+
+#mission{
+    
+    display: flex;
+    flex-direction: row;
+    gap: 15em;
+    margin-top: 250px;
+    margin-bottom: 150px;
+    font-size: 20px;
+}
+
+#s4{
+    
+    background-image: url('imagenes/background-4.jpg');
 }
 #cuarto{
 
-    background-image: url('imagenes/background-4.jpg');
     color: white;
+    text-align: center;
+    font-size: 30px;
+    margin: 10%;
+}
+
+#cuarto img{
+
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    margin-bottom: 15%;
 }
