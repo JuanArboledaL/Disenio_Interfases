@@ -1,143 +1,212 @@
 #contGeneral{
 
-    width: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: center;
 }
 
-#header{
+.container{
 
+    margin: auto;
+    max-width: 1200px;
+}
+#s1{
+
+    background-color: #ECEEF3;
+}
+#hd{
+    
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     font-size: 15px;
-    background-color: #ECEEF3;
-    padding-left: 20%;
-    padding-right: 20%;
-    padding-top: 10px;
+    margin: auto;
+    margin-top: 20PX;
+}
+#hd a{
+    
+    color: black;
 }
 
-#menu{
-
+#hd menu{
+    
     list-style-type: none;
     display: flex;
     gap: 1em; 
     margin-top: 10px;
     
 }
-
-nav{
-
+#espacio1{
+    
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    background-color: #ECEEF3;
+    font-family: Arial, sans-serif;
     
 }
+#txt1{
 
-#texto{
-
-    margin-top: 10%;
+    font-size: 20px;
+    margin-right: 20%;
 }
-
 #p1{
 
-    color: #51B0DF;
-    font-size: 20px;
-    margin: 10px;
-    cursor: pointer;
+    margin-top: 20%;
+    color:#51B0DF ;
 }
+#txt1 h1{
 
-nav input{
-    
-    background-color: #ECEEF3;
-    border: none;
+    font-size: 50px;
+}
+#lo1{
+
     font-size: 15px;
-    margin: 10px;
+}
+#btn1{
+
     background-color: #51B0DF;
-    cursor: pointer;
-    border-radius: 5%;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-top: 25px;
 }
-#especialidades{
 
-    display: flex;
-    justify-content:center;
+#s2{
+
     background-color: #BEE0F1;
-    text-align: center;
-    gap: 1em;
-    padding-left: 17%;
-    padding-right: 17%;
-    padding-top: 20px;
 }
 
-#especialidades img{
-
-    width: 120px;
-    height: 120px;
-    margin: 10px;
-    
-    
-}
-#imagenes{
-
-    text-align: center;
-    font-size: 20px;
-    color: #646363;
-    margin: 100px;
-}
-
-#fotos{
+#espacio2{
 
     display: flex;
     flex-direction: row;
-    justify-content: center;
-   
+    justify-content: space-between;
+    font-family: Arial, sans-serif;
+    padding: 3%;
+    text-align: center;
+    gap: 15em;
+    font-size: 15px;
 }
 
-#fotos img{
+#espacio2 img{
 
-    width: 300px;
-    height: 300px;
-    margin: 10px;
-    border-radius: 15%;
+    width: 100px;
+    height: 100px;
 }
 
-#about{
+#espacio3{
 
     display: flex;
     flex-direction: column;
+    font-size: 30px;
     justify-content: center;
-    text-align: center;
-    background-color: #ECEEF3;
-    color: #646363;
-    font-size: 40px;
-    padding-left: 16%;
-    padding-right: 16%;
-
+    align-items: center;
+    padding: 5%;
+    color: rgb(94, 93, 94);
 }
 
-#aboutText{
+#img2{
+    
+    justify-content: space-between;
+   
+}
+#img2 img{
+
+    width: 260px;
+    height: 300px;
+}
+
+#s4{
+
+    background-color: #ECEEF3;
+}
+
+#espacio4{
+
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+    align-items: center;
+}
+
+#espacio4 h1{
+
+    font-size:40px;
+    color: rgb(97, 97, 97);
+    
+}
+
+#es{
 
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    font-family: Arial, sans-serif;
+    gap: 3em;
+    margin-top: 2%;
+    font-size: 15px;
+}
+#espa{
+
+    margin: 5%;
+    
 }
 
-#aboutText img{
+#espa h1{
 
-    width: 400px;
+    text-align: center;
+    color: rgb(97, 97, 97);
+    margin-bottom: 10%;
+    font-size: 40px;
+}
+#espacio4 img{
+
+    width: 500px;
     height: 300px;
-    margin: 40px;
-
 }
 
-#aboutText p{
+#contacto{
 
-    font-size: 20px;
-    margin: 10px;
-    text-align: left;
+    margin-left:10%;
 }
 
+#contacto input{
 
+    border: none;
+    width: 900px;
+    margin-bottom: 10px;
+    
+    
+}
+#name{
 
+    background-color:#ECEEF3 ;
+}
+#email{
 
+    background-color:#ECEEF3 ;
+}
+#mensaje{
+
+    background-color:#ECEEF3 ;
+}
+#btn2{
+
+    background-color: #51B0DF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#s6{
+
+    background-color: #ECEEF3;
+}
+
+#footer{
+
+    text-align: center;
+    padding: 2%;
+    color: rgb(97, 97, 97);
+}
