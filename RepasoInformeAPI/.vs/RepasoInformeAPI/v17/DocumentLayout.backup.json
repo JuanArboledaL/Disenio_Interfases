@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juana\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|c:\\users\\juana\\documents\\github\\disenio_interfases\\repasoinformeapi\\repasoinformeapi\\informes\\informe.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
-      "RelativeMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|solutionrelative:repasoinformeapi\\informes\\informe.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|c:\\users\\juana\\documents\\github\\disenio_interfases\\repasoinformeapi\\repasoinformeapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|solutionrelative:repasoinformeapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|c:\\users\\juana\\documents\\github\\disenio_interfases\\repasoinformeapi\\repasoinformeapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\repasoinformeapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|solutionrelative:repasoinformeapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|c:\\users\\juana\\documents\\github\\disenio_interfases\\repasoinformeapi\\repasoinformeapi\\clases\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|c:\\users\\juanito\\documents\\github\\disenio_interfases\\repasoinformeapi\\repasoinformeapi\\clases\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|solutionrelative:repasoinformeapi\\clases\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\repasoinformeapi\\informes\\informe.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|solutionrelative:repasoinformeapi\\informes\\informe.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\repasoinformeapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{035C5799-2769-4F8A-8DA6-6BEEA530859A}|RepasoInformeAPI\\RepasoInformeAPI.csproj|solutionrelative:repasoinformeapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\juana\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\Form1.cs",
               "RelativeDocumentMoniker": "RepasoInformeAPI\\Form1.cs",
-              "ToolTip": "C:\\Users\\juana\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\Form1.cs",
               "RelativeToolTip": "RepasoInformeAPI\\Form1.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAMwDUAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T19:42:39.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Datos.cs",
-              "DocumentMoniker": "C:\\Users\\juana\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\clases\\Datos.cs",
+              "DocumentMoniker": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\clases\\Datos.cs",
               "RelativeDocumentMoniker": "RepasoInformeAPI\\clases\\Datos.cs",
-              "ToolTip": "C:\\Users\\juana\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\clases\\Datos.cs",
+              "ToolTip": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\clases\\Datos.cs",
               "RelativeToolTip": "RepasoInformeAPI\\clases\\Datos.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T19:38:57.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "informe.rdlc [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\juana\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\Informes\\informe.rdlc",
+              "DocumentMoniker": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\Informes\\informe.rdlc",
               "RelativeDocumentMoniker": "RepasoInformeAPI\\Informes\\informe.rdlc",
-              "ToolTip": "C:\\Users\\juana\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\Informes\\informe.rdlc [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\Informes\\informe.rdlc [Dise\u00F1o]",
               "RelativeToolTip": "RepasoInformeAPI\\Informes\\informe.rdlc [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
               "WhenOpened": "2025-02-04T19:37:06.165Z",
@@ -68,11 +68,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\juana\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\Form1.cs",
               "RelativeDocumentMoniker": "RepasoInformeAPI\\Form1.cs",
-              "ToolTip": "C:\\Users\\juana\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Juanito\\Documents\\GitHub\\Disenio_Interfases\\RepasoInformeAPI\\RepasoInformeAPI\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "RepasoInformeAPI\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T19:33:32.492Z",
