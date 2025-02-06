@@ -19,12 +19,13 @@
     flex-direction: row;
     justify-content: space-between;
     font-size: 15px;
-    margin: auto;
-    margin-top: 20PX;
+    align-items: center;
+    
 }
 #hd a{
     
     color: black;
+    text-decoration: none;
 }
 
 #hd menu{
@@ -32,7 +33,6 @@
     list-style-type: none;
     display: flex;
     gap: 1em; 
-    margin-top: 10px;
     
 }
 #espacio1{
@@ -45,11 +45,10 @@
 #txt1{
 
     font-size: 20px;
-    margin-right: 20%;
+    align-content: center;
 }
 #p1{
 
-    margin-top: 20%;
     color:#51B0DF ;
 }
 #txt1 h1{
@@ -65,10 +64,7 @@
     background-color: #51B0DF;
     color: white;
     border: none;
-    padding: 10px 20px;
     border-radius: 5px;
-    margin-left: 30%;
-    margin-top: 25px;
 }
 
 #s2{
@@ -82,9 +78,8 @@
     flex-direction: row;
     justify-content: space-between;
     font-family: Arial, sans-serif;
-    padding: 3%;
     text-align: center;
-    gap: 15em;
+    gap: 1em;
     font-size: 15px;
 }
 
@@ -101,7 +96,6 @@
     font-size: 30px;
     justify-content: center;
     align-items: center;
-    padding: 5%;
     color: rgb(94, 93, 94);
 }
 
@@ -125,7 +119,6 @@
 
     display: flex;
     flex-direction: column;
-    padding: 3%;
     align-items: center;
 }
 
@@ -143,20 +136,13 @@
     justify-content: space-between;
     font-family: Arial, sans-serif;
     gap: 3em;
-    margin-top: 2%;
     font-size: 15px;
-}
-#espa{
-
-    margin: 5%;
-    
 }
 
 #espa h1{
 
     text-align: center;
     color: rgb(97, 97, 97);
-    margin-bottom: 10%;
     font-size: 40px;
 }
 #espacio4 img{
@@ -165,17 +151,10 @@
     height: 300px;
 }
 
-#contacto{
-
-    margin-left:10%;
-}
-
 #contacto input{
 
     border: none;
-    width: 900px;
-    margin-bottom: 10px;
-    
+    width: 900px;    
     
 }
 #name{
@@ -207,8 +186,84 @@
 #footer{
 
     text-align: center;
-    padding: 2%;
     color: rgb(97, 97, 97);
 }
 
+@media (width < 580px){
 
+    #general{
+
+        display: flex;
+        flex-direction: column;
+    }
+
+    #espacio1{
+
+        align-items: center;
+        
+    }
+    #img1{
+
+        
+        visibility: collapse;
+    }
+
+    #espacio2{
+
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    #img2{
+
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+    }
+
+    #es{
+
+        display: flex;
+        flex-direction: column ;
+    }
+}
+
+@media (width > 581)and(width < 768){
+
+    #espacio1{
+
+        align-items: center;
+        
+    }
+    #img1{
+
+        opacity: 100%;
+    }
+
+    #img2{
+
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1em;
+    }
+
+    #es{
+
+        display: flex;
+        flex-direction: column ;
+    }
+
+    #espacio4 img{
+
+        width: 400px;
+        height: 200px;
+    }
+
+}
+
+Media query a Ejercicio Flex 1 según ancho (px):
+<480 Todos los elementos en columna (se muestra de 1 en 1) y la imagen de presentación desaparece
+481 - 768 Imágenes en my work se muestran de 2 en 2
+768> Normal
+Interfaces 10/02 Examen CSS, 03/03 Grid CSS??
