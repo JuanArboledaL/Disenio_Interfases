@@ -1,0 +1,210 @@
+body {
+
+    margin: 0;
+}
+
+#general {
+
+    display: flex;
+    flex-direction: column;
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 16px;
+    font-style: normal;
+}
+
+.container {
+
+    margin: 0 auto;
+    max-width: 1400px;
+
+}
+
+#section1 {
+
+    background-image: url("imagenes/showcase.jpg");
+    
+}
+
+#nav {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#nav a {
+
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#nav p {
+
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-size: 35px;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+#menu {
+
+    display: flex;
+    gap: 2em;
+}
+
+#s1 {
+
+    font-size: 34px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#s1 a{
+
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#p1 {
+
+    font-size: 80px;
+}
+
+#p2 {
+
+    font-size: 25px;
+}
+
+#btn1 {
+
+    background-color: #DD2E0D;
+    border-radius: 15px;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    height: 35px;
+    width: 130px;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+#ask {
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+
+#ask a{
+
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#ask p {
+
+    align-items: center;
+    font-size: 60px;
+    color: #FFFFFF;
+}
+
+#buttons {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3em;
+}
+
+#btn2 {
+
+    background-color: #DD2E0D;
+    border-radius: 15px;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    height: 35px;
+    width: 130px;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+#btn3 {
+
+    background-color: #DD2E0D;
+    border-radius: 15px;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    height: 35px;
+    width: 130px;
+    font-size: 10px;
+    cursor: pointer;
+
+}
+#section2{
+
+    background-color: #FFFFFF;
+    margin-top: 10%;
+    padding: 5%;
+}
+
+#imagenes{
+
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+}
+
+#section2 img{
+
+    width: 350px;
+    height: 300px;
+    border-radius: 5%;
+}
+
+.imgs{
+
+    justify-content:center;
+    justify-items: center;
+}
+
+#section2 a{
+
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.btns{
+
+    background-color: #DD2E0D;
+    border-radius: 15px;
+    color: #FFFFFF;
+    height: 35px;
+    border: 0;
+    width: 130px;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+#perro{
+
+    background-image: url("imagenes/no.jpg");
+    
+}
+
+@media (width < 580px){
+
+    #imagenes{
+
+        display: flex;
+        flex-direction: column;
+    }
+
+    #ask{
+
+        display: flex;
+        flex-direction: column;
+    }
+
+}

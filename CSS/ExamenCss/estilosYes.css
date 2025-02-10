@@ -1,0 +1,69 @@
+body{
+
+    margin: 0;
+}
+#general{
+
+    display: flex;
+    flex-direction: column;
+}
+#header{
+
+    background-color: #A3000D;
+}
+.container{
+
+    margin: 0 auto;
+    max-width: 1400px;;
+}
+
+#nav{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+#nav a {
+
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#nav p {
+
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-size: 35px;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+#menu {
+
+    display: flex;
+    gap: 2em;
+}
+
+#seccion{
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+    align-items: center;
+    display: flex;
+    gap: 2em;
+    font-size: 20px;
+    
+}
+#section{
+
+    background-color: #FFFFFF;
+}
+
+footer{
+
+    background-color: #A3000D;
+    padding: 3%;
+}
