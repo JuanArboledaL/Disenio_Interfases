@@ -1,13 +1,22 @@
 #general {
 
-    margin: 0 auto;
-    max-width: 1200px;
     display: grid;
     grid-template-rows: 0.2fr 1fr 8fr 4fr;
     grid-template-columns: 1fr;
     font-family: "Source Sans 3", serif;
     font-optical-sizing: auto;
     font-style: normal;
+}
+
+.contenedor{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+#header {
+
+    grid-row-start: 1;
+    grid-row-end: span 2;
 }
 
 #logo {
@@ -107,10 +116,33 @@
     color: black;
 }
 
-.contenedor {
+    
+#footer{
 
-    color: #585858;
+    background-color: #F6F6F6;
 
 }
 
-585858 F6F6F6 FFFFFF
+#contacto{     
+
+    grid-row: 4;
+    display: grid;
+    grid-template-columns: 3fr 2fr;;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    color:#585858 ;
+
+}
+#get{
+
+    grid-row: 1;
+    grid-column: 1;
+    justify-items: start;
+    align-items: end;
+}
+#follow{
+    grid-column: 2;
+    grid-row: 1;
+    justify-items: start;
+    align-items: end;
+}
+

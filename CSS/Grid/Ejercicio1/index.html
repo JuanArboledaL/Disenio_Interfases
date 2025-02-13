@@ -6,24 +6,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ejecicio 1 Grid</title>
     <link rel="stylesheet" type="text/css" href="estilo.css">
-    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
+        rel="stylesheet">
 </head>
 
 <body>
     <div id="general">
-        <div id="logo">
-            <img src="imagenes/logo (1).png" />
+        <div id="header">
+            <div class="contenedor">
+                <div id="logo">
+                    <img src="imagenes/logo (1).png" />
+                </div>
+                <div id="nav">
+                    <h1>This is a landing page to practice CSS Grid based on the phantom Template</h1>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur in maiores voluptatum qui
+                        mollitia
+                        aspernatur eveniet repudiandae distinctio architecto assumenda fugit, animi similique atque eaque
+                        obcaecati dolores molestias quibusdam asperiores? Lorem ipsum dolor sit amet consectetur adipisicing
+                        elit. Nostrum saepe tempore fugit voluptatum laborum blanditiis quae vitae laboriosam officia,
+                        consectetur, a sequi veritatis, incidunt asperiores fuga ex aut omnis sed?
+                    </p>
+                </div>
+            </div> 
         </div>
-        <div id="nav">
-            <h1>This is a landing page to practice CSS Grid based on the phantom Template</h1>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur in maiores voluptatum qui mollitia
-                aspernatur eveniet repudiandae distinctio architecto assumenda fugit, animi similique atque eaque
-                obcaecati dolores molestias quibusdam asperiores? Lorem ipsum dolor sit amet consectetur adipisicing
-                elit. Nostrum saepe tempore fugit voluptatum laborum blanditiis quae vitae laboriosam officia,
-                consectetur, a sequi veritatis, incidunt asperiores fuga ex aut omnis sed?
-            </p>
-        </div>
-        <div id="imagenes">
+        <div id="imagenes" class="contenedor">
             <div id="magna" class="image">
                 <h2>MAGNA</h1>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae facilis magni et dicta
@@ -39,11 +46,14 @@
                 <h2>Tempo</h1>
             </div>
             <div id="feugiat" class="image">
-            <h2>FEUGIAT</h1>
+                <h2>FEUGIAT</h1>
             </div>
         </div>
-        <div id="footer" class="contenedor">
-
+        <div id="footer">
+            <div class="contenedor" id="contacto">
+                <h2 id="get">GET IN TOUCH</h1>
+                <h2 id="follow">FOLLOW</h2>
+            </div>
         </div>
     </div>
 </body>
