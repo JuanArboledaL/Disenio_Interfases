@@ -31,6 +31,8 @@ nav a{
     font-size: 15px;
     border: 2px solid black;
     margin-top: 15px;
+    max-width: 600px;
+    margin: 0 auto;
 }
 p{
     text-align: left;
@@ -52,4 +54,35 @@ img{
 }
 
 
+#footer{
 
+    background-color: rgb(194, 194, 194);
+}
+
+#footer p{
+
+    text-align: center;
+    padding: 10px;
+}
+
+@media(max-width: 500px){
+
+    .container{
+
+        margin: 0 auto;
+        width: 470px;
+    }
+    
+
+    #title{
+
+        max-width: 100px;
+        margin: 0 auto;
+    }
+
+    #imgs{
+
+        display: block;
+        
+    }
+}
